@@ -34,22 +34,7 @@ The models are evaluated based on the following metrics:
 - F1-score
 - ROC-AUC score
 
-## How to Run
 
-To run this project, you will need to have Python and Jupyter Notebook installed.
-
-1.  Clone the repository:
-    ```bash
-    git clone <repository-url>
-    ```
-2.  Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  Open the Jupyter Notebook:
-    ```bash
-    jupyter notebook Model_Evaluation_and_Hyperparameter_Tuning_on_Titanic_Dataset.ipynb
-    ```
 
 ## Results and Conclusion
 
